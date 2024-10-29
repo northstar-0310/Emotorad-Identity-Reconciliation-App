@@ -110,10 +110,3 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-
-
-You can now copy this entire block of text and paste it directly into a file named `README.md` in the root directory of your project. Remember to replace `[https://github.com/northstar-0310/Emotorad-Identity-Reconciliation-App.git]` with the actual URL of your Git repository if you're using version control.
-
-Also, consider creating the mentioned `CONTRIBUTING.md` and `LICENSE.md` files if they don't already exist in your project.
-```
