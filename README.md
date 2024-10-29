@@ -1,8 +1,3 @@
-I'll provide you with the code for the README file that you can directly copy and paste into your project.
-
-Here's the README code that you can copy and paste:
-
-```plaintext
 # Identity Reconciliation Service
 
 ## Overview
@@ -116,7 +111,7 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
-```plaintext
+
 
 You can now copy this entire block of text and paste it directly into a file named `README.md` in the root directory of your project. Remember to replace `[https://github.com/northstar-0310/Emotorad-Identity-Reconciliation-App.git]` with the actual URL of your Git repository if you're using version control.
 
